@@ -48,7 +48,7 @@ params:
   clients:
     enable: yes
     subtitle: ''
-    title: Our Clients
+    title: Our Partners
   contact_form_ajax: no
   copyright: Copyright (c) 2019 - 2021, Universitat Politècnica de Catalunya · BarcelonaTech; all rights reserved.
   date_format: January 2, 2006
@@ -94,9 +94,7 @@ params:
   topbar:
     enable: yes
     text: "<p class=\"hidden-sm hidden-xs\">Talent Management Observatory in Asian Universities</p>\n
-      \     <p class=\"hidden-md hidden-lg\"><a href=\"#\" data-animate-hover=\"pulse\"><i
-      class=\"fas fa-phone\"></i></a>\n      <a href=\"#\" data-animate-hover=\"pulse\"><i
-      class=\"fas fa-envelope\"></i></a>\n      </p>\n      "
+      \     <p class=\"hidden-md hidden-lg\">Talent Management Observatory in Asian Universities</p>\n      "
   twitter_site: GoHugoIO
   viewMorePostLink: /blog/
   widgets:

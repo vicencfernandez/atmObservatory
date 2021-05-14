@@ -1,4 +1,4 @@
-weight: 2
+weight: 3
 title: "News about Talent Management"
 description: >
   <ul class="list-style-none">
@@ -7,4 +7,4 @@ description: >
      <li>New readings by practitioners on TM</li>
      <li>News focused on Asian Universities</li>
    </ul>
-image: "img/carousel/template-mac.png"
+image: "img/carousel/news_on_laptop.png"

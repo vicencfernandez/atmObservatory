@@ -1,10 +1,10 @@
-weight: 3
+weight: 1
 title: "TM Best Practices"
 description: >
   <ul class="list-style-none">
     <li></li>
-    <li>List updated of Best Practices</li>
+    <li>updated list of Best Practices</li>
     <li>Detailed Descriptions</li>
     <li>Suggested Metrics</li>
   </ul>
-image: "img/carousel/template-easy-customize.png"
+image: "img/carousel/best_practice.png"
