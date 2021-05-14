@@ -12,35 +12,31 @@ menu:
       name: Home
       url: /
       weight: 1
+    - identifier: contact
+      name: ToolKit for TM Practices
+      url: /contact/
+      weight: 2      
     - identifier: blog
       name: News and Best Practices
       url: /blog/
-      weight: 2
+      weight: 3
     - identifier: faq
       name: Submit your Best Practice
       url: /faq/
-      weight: 3
-    - identifier: contact
-      name: Contact
-      url: /contact/
       weight: 4
   topbar:
     - name: GitHub
       pre: <i class='fab fa-2x fa-github'></i>
-      url: https://github.com/devcows/hugo-universal-theme
+      url: https://github.com/vicencfernandez/atmObservatory
       weight: 1
-    - name: Facebook
-      pre: <i class='fab fa-2x fa-facebook'></i>
-      url: http://facebook.com
-      weight: 2
     - name: Twitter
       pre: <i class='fab fa-2x fa-twitter'></i>
-      url: http://twitter.com
-      weight: 3
+      url: https://twitter.com/TechTalentLab
+      weight: 2
     - name: Email
       pre: <i class='fas fa-2x fa-envelope'></i>
-      url: mailto:your@email.com
-      weight: 4
+      url: mailto:vicenc.fernandez@upc.edu
+      weight: 3
 params:
   about_us: <p>Talent Management Observatory of Asian Universities. Project co-founded by the Erasmus+ Programme of the European Union, and coordinated by the Universitat Politècnica de Catalunya.</p>
   address: "<p class=\"text-uppercase\"><strong>Universitat Politècnica de Catalunya · BarcelonaTech</strong>\n        <br>
@@ -97,7 +93,7 @@ params:
     title: Testimonials
   topbar:
     enable: yes
-    text: "<p class=\"hidden-sm hidden-xs\">Contact us on +420 777 555 333 or hello@universal.com.</p>\n
+    text: "<p class=\"hidden-sm hidden-xs\">Contact us at https://techtalent-lab.upc.edu/</p>\n
       \     <p class=\"hidden-md hidden-lg\"><a href=\"#\" data-animate-hover=\"pulse\"><i
       class=\"fas fa-phone\"></i></a>\n      <a href=\"#\" data-animate-hover=\"pulse\"><i
       class=\"fas fa-envelope\"></i></a>\n      </p>\n      "
