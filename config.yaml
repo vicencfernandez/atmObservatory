@@ -4,7 +4,7 @@ theme: hugo-universal-theme
 languageCode: en-us
 defaultContentLanguage: en
 disqusShortname: devcows
-googleAnalytics: ''
+googleAnalytics: 'G-V9BL7R4VZ7'
 paginate: 10
 menu:
   main:
@@ -88,7 +88,7 @@ params:
     subtitle: We have prepared for you more than 40 different HTML pages, including
       5 variations of homepage.
     title: Do you want to see more?
-  style: default
+  style: blue
   testimonials:
     enable: yes
     subtitle: We have worked with many clients and we always like to hear they come
