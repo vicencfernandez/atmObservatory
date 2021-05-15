@@ -3,7 +3,7 @@ title: Talent Management Observatory in Asian Universities
 theme: hugo-universal-theme
 languageCode: en-us
 defaultContentLanguage: en
-disqusShortname: devcows
+disqusShortname: vicencfernandez
 googleAnalytics: 'G-V9BL7R4VZ7'
 paginate: 10
 menu:
@@ -16,13 +16,13 @@ menu:
       name: News and Best Practices
       url: /blog/
       weight: 2
-    - identifier: faq
+    - identifier: submit
       name: Submit your Best Practice
-      url: /faq/
+      url: /submit/
       weight: 3
-    - identifier: contact
+    - identifier: toolkit
       name: ToolKit for TM Practices
-      url: /contact/
+      url: /toolkit/
       weight: 4        
   topbar:
     - name: GitHub
@@ -42,12 +42,12 @@ params:
   address: "<p class=\"text-uppercase\"><strong>Universitat Politècnica de Catalunya · BarcelonaTech</strong>\n        <br>
   <br>TechTalent-Lab\n        <br>Jordi Girona 1-3, Building C5, Office 001\n        <br>08034 - Barcelona\n
     \       <br>\n        <strong>Spain</strong>\n      </p>\n      "
-  author: DevCows
+  author: Vicenc Fernandez
   carousel:
     enable: yes
   clients:
     enable: yes
-    subtitle: ''
+    subtitle: 'Several Asian and European Universities have been working together to develop and maintain this online observatory of Talent Management Practices in the Asian Higher Education Instituions, as well as the Tool-Kit for designing Talent Management Practices'
     title: Our Partners
   contact_form_ajax: no
   copyright: Copyright (c) 2019 - 2021, Universitat Politècnica de Catalunya · BarcelonaTech; all rights reserved.
@@ -58,7 +58,7 @@ params:
     - devows
     - hugo
     - go
-  enableGoogleMaps: yes
+  enableGoogleMaps: no
   facebook_site: ''
   features:
     enable: yes
@@ -70,20 +70,16 @@ params:
   longitude: '-77.028333'
   mainSections: blog
   recent_posts:
-    enable: no
-    subtitle: Pellentesque habitant morbi tristique senectus et netus et malesuada
-      fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget,
-      tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean
-      ultricies mi vitae est. Mauris placerat eleifend leo.
-    title: From our blog
+    enable: yes
+    subtitle: Here, you can find the last News and Talent Management Practices that have been published in this online observatory. We upload news and TM practices regularly with the objective of informing the community of the most recent contributions in the field.
+    title: Last News and TM Practices
   see_more:
-    enable: no
+    enable: yes
     icon: far fa-file-alt
-    link_text: Check other homepages
-    link_url: '#'
-    subtitle: We have prepared for you more than 40 different HTML pages, including
-      5 variations of homepage.
-    title: Do you want to see more?
+    link_text: Get the Physical Toolkit
+    link_url: 'https://twitter.com/TechTalentLab'
+    subtitle: We have designed and build a physcal toolkit with the best materials and using best quality processes so that the toolkit can be used intensively by universities.
+    title: Do you want to get the physical toolkit?
   style: blue
   testimonials:
     enable: yes
