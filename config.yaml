@@ -78,15 +78,13 @@ params:
     icon: far fa-file-alt
     link_text: Get the Physical Toolkit
     link_url: 'https://twitter.com/TechTalentLab'
-    subtitle: We have designed and build a physcal toolkit with the best materials and using best quality processes so that the toolkit can be used intensively by universities.
+    subtitle: We have designed and built a physical toolkit with the best materials and using the best quality processes to be used intensively by universities.
     title: Do you want to get the physical toolkit?
   style: blue
   testimonials:
     enable: yes
-    subtitle: We have worked with many clients and we always like to hear they come
-      out from the cooperation happy and satisfied. Have a look what our clients said
-      about us.
-    title: Testimonials
+    subtitle: Professors, researchers, non-academic staff, and designers have participated in developing this toolkit. Here, some of their thoughts.  
+    title: Collaborators
   topbar:
     enable: yes
     text: "<p class=\"hidden-sm hidden-xs\">Talent Management Observatory in Asian Universities</p>\n
