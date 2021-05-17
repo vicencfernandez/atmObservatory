@@ -1,8 +1,8 @@
 ---
 author: John Doe
-banner: img/banners/banner-4.jpg
+banner: img/banners/tools_01.jpg
 categories:
-- programming
+- Best Practices
 date: "2015-10-02T21:49:20+02:00"
 tags:
 - golang

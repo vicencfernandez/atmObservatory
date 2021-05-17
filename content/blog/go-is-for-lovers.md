@@ -1,7 +1,7 @@
 ---
-banner: img/banners/banner-2.jpg
+banner: img/banners/tools_02.jpg
 categories:
-- programming
+- Best Practices
 date: "2015-09-17T13:47:08+02:00"
 facebook_author: GolangSociety
 tags:

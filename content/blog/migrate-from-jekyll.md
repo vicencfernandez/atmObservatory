@@ -1,7 +1,7 @@
 ---
-banner: img/banners/banner-5.jpg
+banner: img/banners/news_02.jpg
 categories:
-- lorem
+- News
 tags:
 - ipsum
 title: Migrate from Jekyll

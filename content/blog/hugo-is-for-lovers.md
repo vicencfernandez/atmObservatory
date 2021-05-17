@@ -1,7 +1,7 @@
 ---
-banner: img/banners/banner-3.jpg
+banner: img/banners/tools_01.jpg
 categories:
-- pseudo
+- Best Practices
 date: "2015-08-03T13:39:46+02:00"
 tags:
 - hugo
