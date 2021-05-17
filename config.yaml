@@ -47,7 +47,7 @@ params:
     enable: yes
   clients:
     enable: yes
-    subtitle: 'Several Asian and European Universities have been working together to develop and maintain this online observatory of Talent Management Practices in the Asian Higher Education Instituions, as well as the Tool-Kit for designing Talent Management Practices'
+    subtitle: 'Several Asian and European Universities have been working together to develop and maintain this online observatory of Talent Management Practices in the Asian Higher Education Instituions, as well as the Tool-Kit for designing Talent Management Practices.'
     title: Our Partners
   contact_form_ajax: no
   copyright: Copyright (c) 2019 - 2021, Universitat Politècnica de Catalunya · BarcelonaTech; all rights reserved.
