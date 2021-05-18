@@ -53,11 +53,12 @@ params:
   copyright: Copyright (c) 2019 - 2021, Universitat Politècnica de Catalunya · BarcelonaTech; all rights reserved.
   date_format: January 2, 2006
   default_sharing_image: img/sharing-default.png
-  defaultDescription: Site template made by devcows using hugo
+  defaultDescription: Observatory of Talent Management Practices
   defaultKeywords:
-    - devows
-    - hugo
-    - go
+    - talent
+    - management
+    - observatory
+    - university
   enableGoogleMaps: no
   facebook_site: ''
   features:

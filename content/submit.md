@@ -24,7 +24,7 @@ Nicola Braidwood;
 Lisa Allen;
 Tessa Bramley.
 
-## Universities, Instituions, and Companies
+## Universities, Institutions, and Companies
 
 Universitat Politècnica de Catalunya · BarcelonaTech (Spain);
 Universiti Malaya (Malaysia);
