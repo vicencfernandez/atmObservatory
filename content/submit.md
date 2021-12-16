@@ -36,4 +36,16 @@ Beihang University (China);
 Tongji University (China);
 Universidade de Lisboa/Instituto Superior Técnico (Portugal);
 Royal Institute of Technology (Sweden);
-Université de Perpignan (France).
+Université de Perpignan (France);
+Universiti Malaysia Sabah (UMS);
+Universiti Tunku Abdul Rahman;
+Universiti Teknikal Malaysia Melaka; 
+Universiti Sains Islam Malaysia;
+Universiti Malaysia Sarawak (UNIMAS);
+University Malaysia Perlis;
+Tunku Abdul Rahman University College;
+Universiti Utara Malaysia;
+Universiti Teknologi MARA;
+Universiti Sains Islam Malaysia (USIM);
+Universiti Malaysia Pahang;
+
